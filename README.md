@@ -1,3 +1,4 @@
 # GitBranchPractice
 Monday
 Tuesday
+Wednesday
